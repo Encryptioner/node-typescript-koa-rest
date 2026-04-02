@@ -558,3 +558,12 @@ To install or update these dependencies you can use `npm install` or `npm update
 ### 1.1.0
 - Added Helmet for security
 - Some bad practices await/async fixed
+
+
+---
+
+## Support
+
+If you find my work useful, consider supporting it:
+
+[![SupportKori](https://img.shields.io/badge/SupportKori-☕-FFDD00?style=flat-square)](https://www.supportkori.com/mirmursalinankur)
